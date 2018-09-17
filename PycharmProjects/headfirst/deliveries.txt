@@ -1,0 +1,42 @@
+Depot:
+canada
+Description:
+Depot:
+seatle
+Description:
+books
+
+Address:
+1 main street 
+Anytown
+WA
+
+Depot:
+cambridge, MA
+Description:
+dfff
+
+Address:
+where
+
+Depot:
+cambridge, England
+Description:
+lala
+Address:
+didi
+
+Depot:
+Dallas, TX
+Description:
+
+Address:
+
+
+Depot:
+Rome, Italy
+Description:
+Little Zhe went to Italy to eat grape
+Address:
+Longjin Dongwu
+
